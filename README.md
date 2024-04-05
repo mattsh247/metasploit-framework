@@ -1,4 +1,5 @@
 Metasploit [![Maintainability](https://api.codeclimate.com/v1/badges/943e398e619c09568f3f/maintainability)](https://codeclimate.com/github/rapid7/metasploit-framework/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/943e398e619c09568f3f/test_coverage)](https://codeclimate.com/github/rapid7/metasploit-framework/test_coverage) [![Docker Pulls](https://img.shields.io/docker/pulls/metasploitframework/metasploit-framework.svg)](https://hub.docker.com/r/metasploitframework/metasploit-framework/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmattsh247%2Fmetasploit-framework.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmattsh247%2Fmetasploit-framework?ref=badge_shield)
 ==
 The Metasploit Framework is released under a BSD-style license. See
 [COPYING](COPYING) for more details.
@@ -52,3 +53,7 @@ pull request. For slightly more information, see
 [unleashed]: https://www.offensive-security.com/metasploit-unleashed/ "Metasploit Unleashed"
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmattsh247%2Fmetasploit-framework.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmattsh247%2Fmetasploit-framework?ref=badge_large)
